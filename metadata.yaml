@@ -1,0 +1,223 @@
+_repo: International-Short-Stories--French_10577
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Reynolds, Francis J. (Francis Joseph)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '4145'
+    url: http://www.gutenberg.org/2009/agents/4145
+  contributors:
+  - agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: &id005 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+  - agent_name: Robert, Clémence
+    alias: Robert, Clemence
+    deathdate: 1872
+    gutenberg_agent_id: '6198'
+    url: http://www.gutenberg.org/2009/agents/6198
+  - agent_name: Aicard, Jean
+    aliases:
+    - Aicard, Jean François Victor
+    - Aicard, Jean Francois Victor
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '6209'
+    url: http://www.gutenberg.org/2009/agents/6209
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Aicard
+  - agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+  - agent_name: Le Sage, Alain René
+    aliases:
+    - Le Sage, Alain Rene
+    - Sage, Alain René Le
+    - Lesage, Alain-René
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+  - agent_name: Chenevière, Adolphe
+    alias: Cheneviere, Adolphe
+    gutenberg_agent_id: '6208'
+    url: http://www.gutenberg.org/2009/agents/6208
+  - agent_name: Coppée, François
+    aliases:
+    - Coppee, Francois
+    - Coppée, Francis Edouard Joachim
+    - François Coppée
+    birthdate: 1842
+    deathdate: &id003 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia: http://en.wikipedia.org/wiki/François_Coppée
+  - agent_name: Vidocq, Eugène François
+    aliases:
+    - Vidocq, Eugene Francois
+    - Vidocq, François
+    birthdate: 1775
+    deathdate: &id006 1857
+    gutenberg_agent_id: '6191'
+    url: http://www.gutenberg.org/2009/agents/6191
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_François_Vidocq
+  - agent_name: Prévost, Marcel
+    aliases:
+    - Prevost, Marcel
+    - Marcel Prévost
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '4089'
+    url: http://www.gutenberg.org/2009/agents/4089
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
+  - agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: &id002 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+  - agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia: http://en.wikipedia.org/wiki/René_Bazin
+  - agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: &id004 1802
+    deathdate: &id001 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+  - agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: *id001
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+  - agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: *id002
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+  - agent_name: Kock, Paul de
+    alias: Kock, Charles Paul de
+    birthdate: 1793
+    deathdate: 1871
+    gutenberg_agent_id: '34988'
+    url: http://www.gutenberg.org/2009/agents/34988
+  - agent_name: Halévy, Ludovic
+    aliases:
+    - Halévy, L. (Ludovic)
+    - Halevy, Ludovic
+    - Servieres, Jules
+    birthdate: 1834
+    deathdate: *id003
+    gutenberg_agent_id: '1344'
+    url: http://www.gutenberg.org/2009/agents/1344
+    wikipedia: http://en.wikipedia.org/wiki/Ludovic_Halévy
+  - agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+  - agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: *id004
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+  - agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: *id005
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+  - agent_name: Musset, Alfred de
+    aliases:
+    - Musset, Louis Charles Alfred de
+    - DeMusset, Alfred
+    - De Musset, Alfred
+    birthdate: 1810
+    deathdate: *id006
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+  - agent_name: Mendès, Catulle
+    aliases:
+    - Mendes, Catulle
+    - Mendès, Catulles
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '6188'
+    url: http://www.gutenberg.org/2009/agents/6188
+    wikipedia: http://en.wikipedia.org/wiki/Catulle_Mendès
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+  - agent_name: Murger, Henri
+    alias: Murger, Henry
+    birthdate: 1822
+    deathdate: 1861
+    gutenberg_agent_id: '6197'
+    url: http://www.gutenberg.org/2009/agents/6197
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: A piece of bread -- The elixir of life -- The age for love -- Mateo
+  Falcone -- The mirror -- My nephew Joseph -- A forest betrothal -- Zadig the Babylonian
+  -- Abandoned -- The guilty secret -- Jean Monette -- Solange -- The birds in the
+  letter-box -- Jean Gourdon's four days -- Baron de Trenck -- The passage of the
+  Red Sea -- The woman and the cat -- Gil Blas and Dr. Sangrado -- A fight with a
+  cannon -- Tonton -- The last lesson -- Croisilles -- the vase of clay.
+title: 'International Short Stories: French'
+url: http://www.gutenberg.org/ebooks/10577
