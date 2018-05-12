@@ -1,5 +1,5 @@
 _repo: International-Short-Stories--French_10577
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Reynolds, Francis J. (Francis Joseph)
@@ -10,7 +10,7 @@ contributor:
   contributors:
   - agent_name: Zola, Émile
     alias: Zola, Émile Édouard Charles Antoine
-    birthdate: &id005 1840
+    birthdate: 1840
     deathdate: 1902
     gutenberg_agent_id: '528'
     url: http://www.gutenberg.org/2009/agents/528
@@ -60,7 +60,7 @@ contributor:
     - Coppée, Francis Edouard Joachim
     - François Coppée
     birthdate: 1842
-    deathdate: &id003 1908
+    deathdate: 1908
     gutenberg_agent_id: '1345'
     url: http://www.gutenberg.org/2009/agents/1345
     wikipedia: http://en.wikipedia.org/wiki/François_Coppée
@@ -69,7 +69,7 @@ contributor:
     - Vidocq, Eugene Francois
     - Vidocq, François
     birthdate: 1775
-    deathdate: &id006 1857
+    deathdate: 1857
     gutenberg_agent_id: '6191'
     url: http://www.gutenberg.org/2009/agents/6191
     wikipedia: http://en.wikipedia.org/wiki/Eugène_François_Vidocq
@@ -84,7 +84,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
   - agent_name: Maupassant, Guy de
     alias: De Maupassant, Guy
-    birthdate: &id002 1850
+    birthdate: 1850
     deathdate: 1893
     gutenberg_agent_id: '306'
     url: http://www.gutenberg.org/2009/agents/306
@@ -103,15 +103,15 @@ contributor:
     - Dumas, Alexandre, pere
     - Dumas père, Alexandre
     - Dumas, Alexander
-    birthdate: &id004 1802
-    deathdate: &id001 1870
+    birthdate: 1802
+    deathdate: 1870
     gutenberg_agent_id: '492'
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
   - agent_name: Mérimée, Prosper
     alias: Merimee, Prosper
     birthdate: 1803
-    deathdate: *id001
+    deathdate: 1870
     gutenberg_agent_id: '920'
     url: http://www.gutenberg.org/2009/agents/920
     wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
@@ -122,7 +122,7 @@ contributor:
     - De Balzac, Honoré
     - Saint-Aubin, Horace de
     birthdate: 1799
-    deathdate: *id002
+    deathdate: 1850
     gutenberg_agent_id: '251'
     url: http://www.gutenberg.org/2009/agents/251
     wikipedia:
@@ -140,7 +140,7 @@ contributor:
     - Halevy, Ludovic
     - Servieres, Jules
     birthdate: 1834
-    deathdate: *id003
+    deathdate: 1908
     gutenberg_agent_id: '1344'
     url: http://www.gutenberg.org/2009/agents/1344
     wikipedia: http://en.wikipedia.org/wiki/Ludovic_Halévy
@@ -150,14 +150,14 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
   - agent_name: Hugo, Victor
     alias: Hugo, Victor Marie, comte
-    birthdate: *id004
+    birthdate: 1802
     deathdate: 1885
     gutenberg_agent_id: '85'
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
   - agent_name: Daudet, Alphonse
     alias: Daudet, Louis Marie Alphonse
-    birthdate: *id005
+    birthdate: 1840
     deathdate: 1897
     gutenberg_agent_id: '727'
     url: http://www.gutenberg.org/2009/agents/727
@@ -168,7 +168,7 @@ contributor:
     - DeMusset, Alfred
     - De Musset, Alfred
     birthdate: 1810
-    deathdate: *id006
+    deathdate: 1857
     gutenberg_agent_id: '1341'
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
@@ -199,7 +199,12 @@ contributor:
     gutenberg_agent_id: '6197'
     url: http://www.gutenberg.org/2009/agents/6197
     wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10577#International-Short-Stories--French
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
